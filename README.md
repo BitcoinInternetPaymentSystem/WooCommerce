@@ -41,4 +41,3 @@ Configuration Instructions
 ### Tested with:
 
 + WordPress™ 3.8.1
-+ PrestaShop™ 2.1.5
