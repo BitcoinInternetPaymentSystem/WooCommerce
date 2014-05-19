@@ -1,4 +1,4 @@
-Copyright (C) 2012 by Kris
+Copyright (C) 2012-2014 by BIPS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -41,3 +41,4 @@ Configuration Instructions
 ### Tested with:
 
 + WordPress™ 3.8.1
++ WooCommerce 2.1.9
